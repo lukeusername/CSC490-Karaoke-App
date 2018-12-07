@@ -11,3 +11,6 @@ Final Presentation Link (5 minutes long): https://docs.google.com/presentation/d
 Project Overview: Streamline the outdated Karaoke management and organization process using 
    -   Android mobile app and
    -   Companion website for use by the Karaoke Manager
+
+Final Poster:
+![Image of Poster](CSC490-Karaoke-App/490_poster.jpg)
