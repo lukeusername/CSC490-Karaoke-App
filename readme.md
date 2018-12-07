@@ -1,43 +1,13 @@
-<<<<<<< HEAD
-# Packages:
-#   - import 'package:flutter/material.dart';
-=======
-CSC 490 Happy Fun Time Karaoke
+# Senior Project: Karaoke Management Android App & Website; CSC 490 Senior Capstone
 
-Authors:
-Evan Rhoades
-Luke Davis
-Michael Ward
-Sean Leonhard
+Group Members:
+   -   Evan Rhoades: Website
+   -   Luke Davis: Mobile App (Front End)
+   -   Michael Ward: Database/Server
+   -   Sean Leonhard: Mobile App (Backend) / Encryption
 
-~Android phone app designed around making signing up for and organizing karaoke easier.~
+Final Presentation Link (5 minutes long): https://docs.google.com/presentation/d/e/2PACX-1vSw4NfuyciU-Nx2S9mM1fDn2yEkzH6YOklWj_B8NcIHAUjbqMJ9NXXO40nq0p7MkvFYzh_f6MkN5UXD/pub?start=false&loop=false&delayms=3000
 
-
-
-```
-Potentially Useful Flutter Libraries
-
-*Drag and Drop list
--may be useful for creating a queue
-https://github.com/Norbert515/flutter_list_drag_and_drop
-
-*Google Sign in
-https://github.com/flutter/plugins/tree/master/packages/google_sign_in
-
-*Facebook Login
-https://github.com/roughike/flutter_facebook_login
-
-*String encryption
-https://pub.dartlang.org/packages/flutter_string_encryption#-readme-tab-
-(public dart library, comes standard)
-
-
-
-
-
-*Firebase? (not sure if we are using firebase still but I had heard us mention it during discussion)
-https://github.com/flutter/plugins/tree/master/packages/firebase_auth
-```
-
-
->>>>>>> b910433fae21de37c1c1cafad6794c33e43dffe4
+Project Overview: Streamline the outdated Karaoke management and organization process using 
+   -   Android mobile app and
+   -   Companion website for use by the Karaoke Manager
