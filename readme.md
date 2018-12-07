@@ -13,4 +13,4 @@ Project Overview: Streamline the outdated Karaoke management and organization pr
    -   Companion website for use by the Karaoke Manager
 
 Final Poster:
-![Image of Poster](./CSC490-Karaoke-App/490_poster.jpg)
+![Image of Poster](./490_poster.jpg)
